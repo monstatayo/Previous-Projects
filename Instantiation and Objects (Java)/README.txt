@@ -1,0 +1,1 @@
+You may notice that these projects are separated into two different programs. Please briefly read through the source code and prompt png within this folder.
